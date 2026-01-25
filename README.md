@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yaswanth Vuppala!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+%26+Cybersecurity+Enthusiast;Building+ML-Models;Exploring+AI+%26+Security+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Major;Machine+Learning+%26+Cybersecurity+Enthusiast;Building+ML-Models;Exploring+AI+%26+Security+Technologies" />
 </p>
 
 <p align="center">
