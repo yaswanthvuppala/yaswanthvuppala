@@ -36,6 +36,16 @@
 
 ## 🔥 Projects
 
+### 🥗 NutriSwiggy: AI-Powered Healthy Food Ordering & Dietitian Platform
+> [`NutriSwiggy-Dietitian`](https://github.com/yaswanthvuppala/NutriSwiggy-Dietitian) &nbsp; · &nbsp; `Next.js` `FastAPI` `Gemini API` `Zustand` `Tailwind CSS` &nbsp; · &nbsp; ⭐ 1 &nbsp; · &nbsp; May 2026
+- Engineered a premium, high-fidelity healthy food delivery web application inspired by Swiggy's UX patterns, integrated with a context-aware AI Dietitian.
+- Developed a **FastAPI backend** implementing a multi-factor nutrition formula for deterministic health scoring (normalized to 100) alongside a tool-calling **Gemini AI Agent**.
+- Built a responsive **Next.js 15+ frontend** featuring real-time macronutrient progress tracking (`/profile`) and an interactive two-column chat discovery board (`/dietitian`).
+- Architected a unified global **Zustand store** to seamlessly merge standard restaurant checkout flows with dynamic AI-recommended meal additions into a single cart.
+- Implemented a robust offline fallback layer utilizing high-fidelity local templates to keep full cart operations, coupon processing, and UI states operational even without active backend connectivity.
+
+---
+
 ### 🛡️ Intrusion Detection System Using Continual Learning
 > [`IDS-1`](https://github.com/yaswanthvuppala/IDS-1) &nbsp;·&nbsp; `Python` `Scikit-learn` `Pandas` `NumPy` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; Jan 2026 – Present
 
