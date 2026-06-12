@@ -165,10 +165,19 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthvuppala&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yaswanthvuppala&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" alt="Yaswanth's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=yaswanthvuppala&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Yaswanth's GitHub streak" />
 </p>
 
 ---
+## Contibution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaswanthvuppala&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+
 
 ## 📫 Connect With Me
 
