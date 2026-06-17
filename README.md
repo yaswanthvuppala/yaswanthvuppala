@@ -36,7 +36,7 @@
 
 ## 🔥 Projects
 
-### 🥗 NutriSwiggy: AI-Powered Healthy Food Ordering & Dietitian Platform
+###  NutriSwiggy: AI-Powered Healthy Food Ordering & Dietitian Platform
 > [`NutriSwiggy-Dietitian`](https://github.com/yaswanthvuppala/NutriSwiggy-Dietitian) &nbsp; · &nbsp; `Next.js` `FastAPI` `Gemini API` `Zustand` `Tailwind CSS` &nbsp; · &nbsp; ⭐ 1 &nbsp; · &nbsp; May 2026
 - Engineered a premium, high-fidelity healthy food delivery web application inspired by Swiggy's UX patterns, integrated with a context-aware AI Dietitian.
 - Developed a **FastAPI backend** implementing a multi-factor nutrition formula for deterministic health scoring (normalized to 100) alongside a tool-calling **Gemini AI Agent**.
@@ -46,18 +46,17 @@
 
 ---
 
-### 🛡️ Intrusion Detection System Using Continual Learning
-> [`IDS-1`](https://github.com/yaswanthvuppala/IDS-1) &nbsp;·&nbsp; `Python` `Scikit-learn` `Pandas` `NumPy` &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; Jan 2026 – Present
+###  Intrusion Detection System Using SSSL & Continual Learning
+[`sssl-continual-ids`](https://github.com/yaswanthvuppala/sssl-continual-ids) &nbsp; · &nbsp; `Python` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
 
-- Engineered an ML-based IDS to detect and classify malicious network traffic (Normal vs. Attack) using the **NSL-KDD** dataset.
-- Applied **continual learning** techniques so the model adapts to evolving threat patterns without catastrophic forgetting.
-- Full pipeline: data ingestion → null handling → normalization → feature selection (variance thresholding, correlation analysis) → model training.
-- Standardized features with **StandardScaler**, reducing noise impact and boosting model convergence by ~20%.
-- Evaluated with **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**; iterated hyperparameters to optimize results.
+* **Engineered an advanced Intrusion Detection System (IDS)** leveraging Semi-Supervised Self-Supervised Learning (SSSL) to detect and classify malicious network traffic (Normal vs. Attack) using the NSL-KDD dataset.
+* **Applied continual learning frameworks** to enable the model to dynamically adapt to evolving threat patterns over time while mitigating the effects of catastrophic forgetting.
+* **Implemented a robust data pipeline** handling end-to-end data ingestion, missing value remediation, feature normalization via `StandardScaler`, and targeted feature selection to reduce noise and accelerate model convergence by ~20%.
+* **Evaluated performance metrics** using Accuracy, Precision, Recall, and F1-Score, iteratively optimizing hyperparameters to ensure high-fidelity detection under non-stationary data distributions.
 
 ---
 
-### 💳 Credit Card Fraud Detector
+###  Credit Card Fraud Detector
 > [`Credit_Card_fraud_Detector`](https://github.com/yaswanthvuppala/Credit_Card_fraud_Detector) &nbsp;·&nbsp; `Python` `XGBoost` `Scikit-learn` `Pandas`
 
 - Built a binary classification model to detect fraudulent credit card transactions from the **Kaggle Credit Card Fraud dataset**.
@@ -67,7 +66,7 @@
 
 ---
 
-### 🏎️ F1 Race Predictor
+###  F1 Race Predictor
 > [`F1_race_Predictor`](https://github.com/yaswanthvuppala/F1_race_Predictor) &nbsp;·&nbsp; `Python` `XGBoost` `Pandas` `NumPy` `Matplotlib`
 
 - Built **two race prediction models** trained on 2022–2024 F1 race data and evaluated on completed 2025 races.
@@ -78,13 +77,13 @@
 
 ---
 
-### 🎯 Recommendation System Using Machine Learning
-> `Python` `Pandas` `Collaborative Filtering`
+###  Weapons Detection Using YOLO
+[Weapons-Detection-Using-YOLO](https://github.com/yaswanthvuppala/Weapons-Detection-Using-YOLO)  ·  `Python` `Jupyter Notebook` `YOLO` `Computer Vision` `PyTorch`
 
-- Designed and implemented a **collaborative filtering-based** recommendation system for personalized item suggestions based on historical user behaviour.
-- Performed **user-item matrix decomposition** and similarity computation to identify latent preference patterns across a multi-dimensional dataset.
-- Pre-processed and cleaned raw interaction data (handling sparsity, duplicate entries) to improve model input quality.
-- Validated recommendation quality using **precision-at-k** and **recall metrics**, achieving measurable improvement over a baseline random approach.
+* **Engineered a real-time computer vision pipeline** to detect and classify various categories of weapons (e.g., firearms, knives) to enhance automated security surveillance systems.
+* **Utilized YOLO object detection architectures**, leveraging transfer learning and fine-tuning models on custom datasets to maximize mean Average Precision (mAP) and bounding-box accuracy.
+* **Implemented robust data preprocessing** including image augmentation (scaling, rotation, brightness adjustments) and annotation formatting to mitigate overfitting and improve detection in low-light or occluded environments.
+* **Evaluated model performance** using Precision, Recall, and Intersection over Union (IoU) metrics, successfully optimizing inference speed for potential edge-device deployment.
 
 ---
 
