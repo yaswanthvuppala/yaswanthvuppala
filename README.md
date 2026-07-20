@@ -6,7 +6,7 @@
 <!-- ─────────────────────────── HERO BANNER ─────────────────────────── -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=Yaswanth%20Vuppala&fontSize=52&fontColor=E8D5F5&fontAlignY=35&desc=ML%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descSize=18&descColor=C4B5FD&descAlignY=55&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1a1a2e,50:16213e,75:0f3460,100:533483&height=220&section=header&text=Yaswanth%20Vuppala&fontSize=52&fontColor=E8D5F5&fontAlignY=35&desc=ML%20Engineer%20%E2%80%A2%20AI%20Bulider%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=C4B5FD&descAlignY=55&animation=fadeIn" alt="Header" />
 </p>
 
 <!-- ─────────────────────── TYPING ANIMATION ────────────────────────── -->
@@ -199,9 +199,9 @@ fun_fact: "I debug neural networks for fun 🧠"
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br />
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
@@ -566,8 +566,8 @@ Personal portfolio deployed on **Vercel**, showcasing projects, skills, experien
 ## 🏆 Achievements & Highlights
 
 <table>
-<tr><td>🥇</td><td>Scored <strong>97.6%</strong> in Class XII — top percentile statewide in Andhra Pradesh</td></tr>
-<tr><td>📈</td><td>Maintaining <strong>8.77 CGPA</strong> at IIIT Sri City while building production-grade ML systems</td></tr>
+<tr><td>🥇</td><td>Scored <strong>97.6%</strong> in Class XII </td></tr>
+<tr><td>📈</td><td>Maintaining <strong>8.76 CGPA</strong> at IIIT Sri City while building production-grade ML systems</td></tr>
 <tr><td>🤖</td><td>Built <strong>6+ end-to-end ML/AI projects</strong> spanning cybersecurity, finance, sports analytics, computer vision, and AI agents</td></tr>
 <tr><td>🔁</td><td>Proficient in full ML lifecycle: data collection → preprocessing → feature engineering → training → evaluation → deployment</td></tr>
 <tr><td>🧮</td><td>Strong mathematical foundation — linear algebra, statistics, probability — critical for ML model development</td></tr>
