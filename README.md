@@ -66,7 +66,7 @@ education:
   degree: B.Tech in Computer Science & Engineering
   university: IIIT Sri City
   batch: 2024 – 2028
-  cgpa: 8.77 / 10.0
+  cgpa: 8.76 / 10.0
 
 roles:
   - Machine Learning Engineer
